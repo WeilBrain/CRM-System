@@ -1,0 +1,7 @@
+export const NUXT_PROD_ID='6579444d625cb9235a4c'
+export const DB_ID = 'crm-base'
+export const COLLECTION_DEALS = 'deals'
+export const AUTH_DEALS = 'auth'
+export const COLLECTION_CUSTOMERS = 'customers'
+export const COLLECTION_COMMENTS = 'comments'
+export const STORAGE_ID = 'storage'
